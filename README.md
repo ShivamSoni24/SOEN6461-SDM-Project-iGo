@@ -1,6 +1,6 @@
 # SDM-Project
 
-Project Topic - Rail Canada Vending Machine
+Project Topic - Rail Canada Ticket Vending Machine
 
 Team Members: 
 Piyush Singla
