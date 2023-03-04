@@ -26,11 +26,10 @@ Prabhjot Singh
 
 ### PROBLEM 3 :  Mind map and interviews
 
-#### Task holders:
-#### Mind map
+#### Mind map task holder:
 Shivam Dipak Soni
 
-#### Interviews
+#### Interviews task holders:
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
