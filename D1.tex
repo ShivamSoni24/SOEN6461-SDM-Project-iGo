@@ -1,0 +1,108 @@
+\documentclass[a4paper,12pt]{article}
+
+\usepackage[scaled=0.92]{helvet}
+
+\usepackage[colorlinks=true, linkcolor=blue]{hyperref}
+
+\usepackage[english]{babel}
+\selectlanguage{english}
+
+\usepackage{microtype}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{enumitem}
+\usepackage{amsmath}
+\usepackage{index}
+\usepackage[utf8]{inputenc}
+\usepackage[svgnames]{xcolor}
+\usepackage{url}
+\usepackage{hyperref}
+\usepackage{float}
+\usepackage{longtable}
+\usepackage[toc]{glossaries}
+
+\begin{document}
+
+\begin{titlepage}
+
+\begin{center}
+\vspace*{-1.2in}
+\begin{figure}[htb]
+\begin{center}
+\includegraphics[width=10cm]{Concordia_logo.png}
+\end{center}
+\end{figure}
+\begin{Large}
+\vspace*{0.3in}
+\textbf{Project Report} \\
+\end{Large}
+\vspace*{0.1in}
+\begin{Large}
+For\\
+\end{Large}
+\vspace*{0.1in}
+
+\begin{Large}
+\textbf{Deliverable 1} \\
+\end{Large}
+\vspace*{0.1in}
+
+\begin{Large}
+\textbf{iGo} \\
+\end{Large}
+\vspace*{0.3in}
+
+\begin{large}
+\textbf{Submitted By} \\
+\vspace*{0.1in}
+Anant Bir Singh - 40219360\\
+Prabhjot Singh - 40220601\\
+Piyush Singla - 40234850\\
+Parth Sonani - 40221824\\
+Shivam Dipak Soni - 40232364 \\
+\vspace*{0.2in}
+\textbf{Submitted to}\\
+\vspace*{0.1in}
+Prof. Pankaj Kamthan\\
+\vspace*{0.3in}
+
+\begin{Large}
+\textbf{SOEN 6461 - Software Design Methodologies} \\
+\vspace*{0.2in}
+\textbf{Concordia University, Montreal, QC}
+\end{Large}
+
+\end{large}
+\end{center}
+\end{titlepage}
+
+
+\newcommand{\CC}{C\nolinebreak\hspace{-.05em}\raisebox{.4ex}{\tiny\bf +}\nolinebreak\hspace{-.10em}\raisebox{.4ex}{\tiny\bf +}}
+\def\CC{{C\nolinebreak[4]\hspace{-.05em}\raisebox{.4ex}{\tiny\bf ++}}}
+
+\tableofcontents
+\newpage
+\section{Introduction}
+The following document will discuss an online ticket vending machine that can be used in Montreal, Quebec, Canada. We will try to understand the different perspectives of the machine using different models and diagrams, which include use case diagrams.
+\subsection{Scope}
+iGo is an online platform used to help STM users buy tickets and/or recharge their OPUS cards online and maintain a record of the transactions. The development and maintenance of the STM system and the physical STM ticket vending machines located at STM buildings are separate from iGo.
+\subsection{Description}
+iGo is an online application that can be used to buy tickets and/or to recharge OPUS cards. The data will be sent to STM (Société de transport de Montréal) through a secure server. Several organizations are involved in iGo, including the Canadian government, the Public Transport Authority (STM), the payment authority, customers, etc. Users can sign up and log in to track their transactions on this platform. Users can only link one OPUS card to their account to avoid fraud and internal complications. Users can check their transaction history and purchases at any time. \\
+
+iGo will provide the following services to its users:
+\begin{enumerate}
+
+\item Customers should be able to create an account on iGo using their email address or phone number. 
+\item Customers should be able to login into their accounts and link their OPUS cards to their accounts.
+\item Customers should be able to purchase tickets/ recharge their cards and pay through Credit/Debit cards.
+\item Customers should be able to view their transaction history.
+Customers should be able to schedule payments for their OPUS cards.
+\item Customers should be able to remove/ add an OPUS card from their account anytime.
+\item Customers should be able to add/ delete/ modify their personal information at any time.
+\item Guest users should be able to purchase non-rechargeable tickets.\\
+\end{enumerate}
+
+
+iGo is an efficient solution for the big problem that most Montrealers have to face on the first day of every month, i.e. standing in long queues to recharge their cards and face consequences if they forget to do so. It will save time, money and effort by providing the services in a quick manner.
+
+\end{document}
