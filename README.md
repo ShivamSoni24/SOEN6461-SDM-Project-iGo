@@ -1,18 +1,49 @@
-# SDM-Project
+# Task Allotment for iGo project
 
-Project Topic - STM Ticket Vending Machine
 
-Team Members: 
+
+### Team members: 
+1. Anant Bir Singh
+2. Prabhjot Singh
+3. Piyush Singla
+4. Parth Sonani
+5. Shivam Dipak Soni
+-----------
+----------------
+## Deliverable 1
+
+### PROBLEM 1 : Project Description and scope
+#### Task holder:
 Piyush Singla
+
+-----------------
+
+
+### PROBLEM 2 :  Problem Domain Model for iGo
+
+#### Task holder:
 Prabhjot Singh
+
+### PROBLEM 3 :  Mind map and interviews
+
+#### Mind map task holder:
+Shivam Dipak Soni
+
+#### Interviews task holders:
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+### PROBLEM 4 : UML Use Case Diagram - Use case model for iGo
+
+#### Task holder:
 Anant Bir Singh
-Shivam Soni
+
+### PROBLEM 5 :  UML Activity Diagrams - Use case model for iGo
+
+#### Task holder:
 Parth Sonani
 
-D1: Roles & Responsibilites :-
 
-Problem 1- Piyush
-Problem 2- Prabhjot
-Problem 3- Shivam
-Problem 4- Anand
-Problem 5- Parth
+ 
