@@ -59,7 +59,7 @@ Make Payment and Check OPUS validity - Anant Bir Singh
 ### LaTex Documentation
 
 #### Task holder:
-Shivam Dipak Singh and Anant Bir Singh
+Shivam Dipak Soni and Anant Bir Singh
 
 
  
