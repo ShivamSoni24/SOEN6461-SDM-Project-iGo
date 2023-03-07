@@ -24,27 +24,39 @@ Piyush Singla
 #### Task holder:
 Prabhjot Singh
 
+-----------------
+
 ### PROBLEM 3 :  Mind map and interviews
 
 #### Mind map task holder:
 Shivam Dipak Soni
 
 #### Interviews task holders:
-| First Header  | Second Header |
+| Interviwee  | Interviewers |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+
+-----------------
 
 ### PROBLEM 4 : UML Use Case Diagram - Use case model for iGo
 
 #### Task holder:
 Anant Bir Singh
 
+-----------------
+
 ### PROBLEM 5 :  UML Activity Diagrams - Use case model for iGo
 
 #### Task holder:
 User Registeration, Login and Transactions - Parth Sonani  
 Make Payment and Check OPUS validity - Anant Bir Singh
+
+-----------------
+### LaTex Documentation
+
+#### Task holder:
+Shivam Dipak Singh and Anant Bir Singh
 
 
  
