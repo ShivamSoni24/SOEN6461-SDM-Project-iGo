@@ -43,7 +43,7 @@ Anant Bir Singh
 ### PROBLEM 5 :  UML Activity Diagrams - Use case model for iGo
 
 #### Task holder:
-User Registeration, Login and Transactions - Parth Sonani
+User Registeration, Login and Transactions - Parth Sonani  
 Make Payment and Check OPUS validity - Anant Bir Singh
 
 
