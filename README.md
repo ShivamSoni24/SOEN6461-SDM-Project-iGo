@@ -32,10 +32,13 @@ Prabhjot Singh
 Shivam Dipak Soni
 
 #### Interviews task holders:
-| Interviwee  | Interviewers |
+| Interviewee  | Interviewers |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Deep Raval  | Content Cell  |
+| Preet Angad  | Content Cell  |
+| Henil  | Content Cell  |
+| Pulkit Bansal  | Content Cell  |
+| Vishal Sharma  | Content Cell  |
 
 -----------------
 
