@@ -34,11 +34,11 @@ Shivam Dipak Soni
 #### Interviews task holders:
 | Interviewee  | Interviewers |
 | ------------- | ------------- |
-| Deep Raval  | Content Cell  |
-| Preet Angad  | Content Cell  |
-| Henil  | Content Cell  |
-| Pulkit Bansal  | Content Cell  |
-| Vishal Sharma  | Content Cell  |
+| Deep Raval  | Shivam Soni  |
+| Preet Angad  | Piyush Singla, Prabhjot Singh  |
+| Henil  | Parth Sonani |
+| Pulkit Bansal  | Anant Bir Singh  |
+| Vishal Sharma  | Parth Sonani  |
 
 -----------------
 
