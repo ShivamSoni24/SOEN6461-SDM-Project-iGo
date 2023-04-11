@@ -56,6 +56,33 @@ User Registeration, Login and Transactions - Parth Sonani
 Make Payment and Check OPUS validity - Anant Bir Singh
 
 -----------------
+
+## Deliverable 2
+
+### PROBLEM 6 : CRC card model
+#### Task holder:
+Anant Bir Singh
+
+-----------------
+
+
+### PROBLEM 7 :   Low-level soluion domain model
+
+#### Structural design model task holder:
+Prabhjot Singh
+
+#### Behavioral design model task holder:
+One diagram per team member
+-----------------
+
+### PROBLEM 8 :  Java program
+Collective coding by all team members
+
+
+### PROBLEM 9 : iGo Testing task holders:
+Parth Sonani and Shivam Dipak Soni
+
+-----------------
 ### LaTex Documentation
 
 #### Task holder:
